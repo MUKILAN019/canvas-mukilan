@@ -1,1 +1,1 @@
-# canvas-mukilan
+# canvas-app-boilerplate
